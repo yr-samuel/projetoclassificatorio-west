@@ -1,1 +1,2 @@
-# projetoclassificatorio-west
+# Projeto Classificatório - West
+
