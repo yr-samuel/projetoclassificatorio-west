@@ -1,4 +1,4 @@
-# Projeto Classificatório - West
+# Projeto Classificatório - Westy
 
 PDF <strong> 'Documentação 'resolucao.js' </strong> com explicação das funções.
 <br>
