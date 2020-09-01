@@ -1,4 +1,4 @@
-# Projeto Classificatório - Westy
+# Projeto Classificatório - Rocky
 
 PDF <strong> 'Documentação 'resolucao.js' </strong> com explicação das funções.
 <br>
